@@ -16,5 +16,7 @@
 
 [Introducing support for WebAssembly at the Edge](https://vercel.com/blog/introducing-support-for-webassembly-at-the-edge)
 
+[Edge Runtime](https://edge-runtime.vercel.app/)
+
 
 
